@@ -8,4 +8,5 @@
   <Item ItemPath="/sitecore/layout/Renderings" ItemIcon="/temp/IconCache/Software/16x16/elements1.png" />
   <Item ItemPath="/sitecore/layout/Renderings/Sales" ItemIcon="/temp/iconcache/software/16x16/element.png" />
   <Item ItemPath="/sitecore/content/Home/New page" ItemIcon="/temp/iconcache/applications/16x16/document.png" />
+  <Item ItemPath="/sitecore/content/Home/sai" ItemIcon="/temp/iconcache/applications/16x16/document.png" />
 </ItemIconCache>
