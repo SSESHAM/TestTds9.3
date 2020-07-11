@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KnownItemCache>
+  <KnownItems Configuration="Debug">
+    <Id Path="/sitecore/content">0de95ae4-41ab-4d01-9eb0-67441b7c2450</Id>
+    <Id Path="/sitecore/content/Home">110d559f-dea5-42ea-9c1c-8a5df7e70ef9</Id>
+    <Id Path="/sitecore/content/Home/New page">aae3e4ed-7533-40a5-a178-aff7507b8619</Id>
+    <Id Path="/sitecore/layout">eb2e4ffd-2761-4653-b052-26a64d385227</Id>
+    <Id Path="/sitecore/layout/Layouts">75cc5ce4-8979-4008-9d3c-806477d57619</Id>
+    <Id Path="/sitecore/layout/Layouts/Customer">3e3ca9a2-a390-4abb-bad5-fb3aa60ff155</Id>
+    <Id Path="/sitecore/layout/Renderings">32566f0e-7686-45f1-a12f-d7260bd78bc3</Id>
+    <Id Path="/sitecore/layout/Renderings/Sales">bb76d123-823f-4291-9798-b3131c58cce0</Id>
+  </KnownItems>
+</KnownItemCache>
