@@ -10,4 +10,5 @@
   <Item ItemPath="/sitecore/content/Home/New page" ItemIcon="/temp/iconcache/applications/16x16/document.png" />
   <Item ItemPath="/sitecore/content/Home/sai" ItemIcon="/temp/iconcache/applications/16x16/document.png" />
   <Item ItemPath="/sitecore/content/Home/test3" ItemIcon="/temp/iconcache/applications/16x16/document.png" />
+  <Item ItemPath="/sitecore/content/Home/test3" ItemIcon="/temp/iconcache/applications/16x16/document.png" />
 </ItemIconCache>
