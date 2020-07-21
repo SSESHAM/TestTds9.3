@@ -12,5 +12,10 @@
     <Id Path="/sitecore/content/Home/sai">36863fd0-116c-403e-b5c3-56a830db62b4</Id>
     <Id Path="/sitecore/content/Home/test3">619f41b4-86ba-4d26-9e5c-2baaad306373</Id>
     <Id Path="/sitecore/content/Home/Folder">02f3dc0b-0a9c-4ff9-9a9c-8c25e518de89</Id>
+    <Id Path="/sitecore/templates">3c1715fe-6a13-4fcf-845f-de308ba9741d</Id>
+    <Id Path="/sitecore/templates/test">21a39ecf-8b99-4291-93e3-ae84725e1c36</Id>
+    <Id Path="/sitecore/templates/test/test">43a60d34-f1ee-4cb4-9ce8-990da278889f</Id>
+    <Id Path="/sitecore/templates/test/test/name">79150271-460e-422f-a66c-50050517267d</Id>
+    <Id Path="/sitecore/templates/test/test/age">3dfa9c98-fda8-4317-a2e9-468d4bd45426</Id>
   </KnownItems>
 </KnownItemCache>

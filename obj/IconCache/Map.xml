@@ -10,5 +10,10 @@
   <Item ItemPath="/sitecore/content/Home/New page" ItemIcon="/temp/iconcache/applications/16x16/document.png" />
   <Item ItemPath="/sitecore/content/Home/sai" ItemIcon="/temp/iconcache/applications/16x16/document.png" />
   <Item ItemPath="/sitecore/content/Home/test3" ItemIcon="/temp/iconcache/applications/16x16/document.png" />
-  <Item ItemPath="/sitecore/content/Home/test3" ItemIcon="/temp/iconcache/applications/16x16/document.png" />
+  <Item ItemPath="/sitecore/content/Home/Folder" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates" ItemIcon="/temp/IconCache/Applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/test" ItemIcon="/temp/iconcache/applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/test/test" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/test/test/name" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/test/test/age" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
 </ItemIconCache>
