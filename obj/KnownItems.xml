@@ -10,5 +10,6 @@
     <Id Path="/sitecore/layout/Renderings">32566f0e-7686-45f1-a12f-d7260bd78bc3</Id>
     <Id Path="/sitecore/layout/Renderings/Sales">bb76d123-823f-4291-9798-b3131c58cce0</Id>
     <Id Path="/sitecore/content/Home/sai">36863fd0-116c-403e-b5c3-56a830db62b4</Id>
+    <Id Path="/sitecore/content/Home/test3">619f41b4-86ba-4d26-9e5c-2baaad306373</Id>
   </KnownItems>
 </KnownItemCache>
