@@ -17,5 +17,6 @@
     <Id Path="/sitecore/templates/test/test">43a60d34-f1ee-4cb4-9ce8-990da278889f</Id>
     <Id Path="/sitecore/templates/test/test/name">79150271-460e-422f-a66c-50050517267d</Id>
     <Id Path="/sitecore/templates/test/test/age">3dfa9c98-fda8-4317-a2e9-468d4bd45426</Id>
+    <Id Path="/sitecore/content/Home/test4">fd5c4b78-0153-4d0c-b0ed-14c3d4028448</Id>
   </KnownItems>
 </KnownItemCache>

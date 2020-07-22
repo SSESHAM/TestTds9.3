@@ -16,8 +16,9 @@
     <RecursiveDeployAction>[Ignore | Delete | SitecoreRecycle]</RecursiveDeployAction>	
 	  -->
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
-    <SitecoreDeployFolder>C:\inetpub\wwwroot\sitecore9.3sc.dev.local</SitecoreDeployFolder>
-    <SitecoreWebUrl>https://sitecore9.3sc.dev.local/</SitecoreWebUrl>
+    <SitecoreDeployFolder>C:\Inetpub\wwwroot\sitecore9.3cm.dev.local</SitecoreDeployFolder>
+    <SitecoreWebUrl>https://sitecore9.3cm.dev.local/</SitecoreWebUrl>
+    <SitecoreAccessGuid>ec905468-d797-444b-b184-fb7118637c1c</SitecoreAccessGuid>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Release' "></PropertyGroup>
   <!--
